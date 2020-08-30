@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "41560077831",
+    "firebase_url": "https://cryptolearn-f14bf.firebaseio.com",
+    "project_id": "cryptolearn-f14bf",
+    "storage_bucket": "cryptolearn-f14bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41560077831:android:fce739215bd0706bd65ca2",
+        "android_client_info": {
+          "package_name": "com.instaforex.android.cryptolearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41560077831-brj5u7g2ulctpe6r5711dm5ilu2vbkbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instaforex.android.cryptolearn",
+            "certificate_hash": "42b732a59f60e18f6139aba33f1376406f76fb04"
+          }
+        },
+        {
+          "client_id": "41560077831-9bgr55k90862q1ld2bc15drtcvk5qldn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instaforex.android.cryptolearn",
+            "certificate_hash": "440c271380dad158f9053c3ccbaa2685619fc23d"
+          }
+        },
+        {
+          "client_id": "41560077831-2lnmiohr467ggplh9sqlntvevl7i2jh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUpMVcEAzIe61NBZAytCnQX0olYl3iig8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41560077831-2lnmiohr467ggplh9sqlntvevl7i2jh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
